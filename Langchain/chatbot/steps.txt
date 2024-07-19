@@ -1,0 +1,4 @@
+1 Langchain api key
+2 OpenAI api key
+3 save in .env file
+
